@@ -1,11 +1,11 @@
 {
-  "name": "templatenpm",
+  "name": "knightTravails",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
   "author": "prince",
   "type": "module",
-  "main": "index.js",
+  "main": "knightTravails.js",
   "scripts": {
     "test": "jest",
     "watch": "jest --watch *.js"
