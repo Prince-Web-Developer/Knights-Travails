@@ -24,7 +24,3 @@ List the software, languages, or tools required to run this project:
    ```bash
    npm install
    ```
-4. (optional) to run all test you can do 
-   ```bash
-   npm test
-   ```
